@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋,I'm Mohssine
 
+Engineering student based in Morocco
+
+I love creating solutions my way and sharing them with the community.
+
+If you would like to reach me, you can find my email address on my profile or you can visit my Linktree.
 <!--
 **EchooRoot/EchooRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
